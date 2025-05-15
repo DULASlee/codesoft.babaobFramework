@@ -1,0 +1,6 @@
+@Babaob.Identity.Host_HostAddress = http://localhost:5083
+
+GET {{Babaob.Identity.Host_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
